@@ -2,7 +2,7 @@
 
 - Supervised Learning
 
- - Regression
+   -Regression
 
  -Linear Regression
 
