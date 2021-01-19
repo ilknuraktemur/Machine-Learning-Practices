@@ -4,17 +4,17 @@
 
    - Regression
 
- -Linear Regression
+   - Linear Regression
 
-Multiple Linear Regression
+   - Multiple Linear Regression
 
-Polynomial Linear Regression
+   - Polynomial Linear Regression
 
-Decision Tree Regression
+   - Decision Tree Regression
+  
+   - Random Forest Regression
 
-Random Forest Regression
-
-Evaluation Regression Models
+   - Evaluation Regression Models
 
 Classification
 
