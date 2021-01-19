@@ -4,9 +4,9 @@
 
    - Regression
 
-   - Linear Regression
+      - Linear Regression
 
-   - Multiple Linear Regression
+      - Multiple Linear Regression
 
    - Polynomial Linear Regression
 
