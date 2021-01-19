@@ -2,9 +2,9 @@
 
 - Supervised Learning
 
-- - Regression
+ - Regression
 
-Linear Regression
+ -Linear Regression
 
 Multiple Linear Regression
 
