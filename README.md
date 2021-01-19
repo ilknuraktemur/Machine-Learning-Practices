@@ -32,22 +32,22 @@
 
       - Evaluation Classification Models
 
-    - Unsupervised Learning
+ - Unsupervised Learning
 
       - Clustering
 
-           - K-Means
+         - K-Means
 
-Hierarchical Clustering
+         - Hierarchical Clustering
 
-Natural Language Process (NLP)
+ - Natural Language Process (NLP)
 
-Principle Component Analysis (PCA)
+ - Principle Component Analysis (PCA)
 
-Model Selection
+ - Model Selection
 
-K-Fold Cross Validation
+    - K-Fold Cross Validation
 
-Grid Search
+     - Grid Search
 
-Recommendation Systems
+ - Recommendation Systems
