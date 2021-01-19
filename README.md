@@ -8,35 +8,35 @@
 
       - Multiple Linear Regression
 
-   - Polynomial Linear Regression
+      - Polynomial Linear Regression
 
-   - Decision Tree Regression
+      - Decision Tree Regression
   
-   - Random Forest Regression
+      - Random Forest Regression
 
-   - Evaluation Regression Models
+      - Evaluation Regression Models
 
-Classification
+   - Classification
 
-Logistic Regression
+      - Logistic Regression
 
-K-Neirest Neighbour (KNN)
+      - K-Neirest Neighbour (KNN)
 
-Support Vector Machine (SVM)
+      - Support Vector Machine (SVM)
 
-Naive Bayes
+      - Naive Bayes
 
-Decision Tree
+      - Decision Tree
 
-Random Forest
+      - Random Forest
 
-Evaluation Classification Models
+      - Evaluation Classification Models
 
-Unsupervised Learning
+- Unsupervised Learning
 
-Clustering
+      - Clustering
 
-K-Means
+           - K-Means
 
 Hierarchical Clustering
 
